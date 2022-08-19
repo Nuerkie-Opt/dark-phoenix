@@ -1,6 +1,6 @@
 # lotusadmin
 
-A new Flutter project.
+A Flutter web dashboard for Lotus Flutter app(Red-Phoenix).
 
 ## Getting Started
 
